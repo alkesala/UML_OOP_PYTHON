@@ -1,4 +1,4 @@
-# Aleksi Kesälä, UML SEQ
+# Aleksi Kesälä
 class Mammal:
     def __init__(self, name):
         self.name = name

@@ -1,4 +1,4 @@
-# Aleksi Kesälä
+# Aleksi Kesälä 
 class Mammal:
     def __init__(self, name, age, gender, habitat):
         self.name = name
